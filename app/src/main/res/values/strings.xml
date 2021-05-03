@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Agenda de notas ponderadas</string>
+    <string name="aprovado">Aluno aprovado</string>
+    <string name="reprovado">Aluno reprovado</string>
 </resources>
